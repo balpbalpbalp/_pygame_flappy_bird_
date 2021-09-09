@@ -150,7 +150,7 @@ while True:
             if event.key == pygame.K_SPACE and game_activate:
 
                 bird_movement = 0
-                bird_movement -= 10
+                bird_movement -= 9.5
                 
                 # flap_sound.play()
         
